@@ -2,9 +2,6 @@
 # 1. Create Vite + React project
 npm create vite@latest
 
-# Project name: my-app
-# Framework: React
-# Variant: JavaScript
 
 cd my-app
 
